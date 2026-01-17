@@ -1,0 +1,13 @@
+body{
+  font-family: "Roboto";
+}
+
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+#root{
+  overflow: hidden;
+  font-family: Roboto;
+}

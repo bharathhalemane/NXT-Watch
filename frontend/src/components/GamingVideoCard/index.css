@@ -1,0 +1,26 @@
+.gaming-video-card {
+  text-decoration: none;
+}
+
+.gaming-video-card img {
+  width: 200px;
+  height: 300px;
+}
+
+.gaming-video-card .title {
+  font-size: 15px;
+  color: #000000;
+}
+
+.gaming-video-card p {
+  color: #7e858e;
+  font-size: 15px;
+}
+
+.gaming-video-card-dark .title {
+  color: #ffffff;
+}
+
+.gaming-video-card-dark p {
+  color: #94a3b8;
+}

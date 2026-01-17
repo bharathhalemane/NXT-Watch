@@ -1,0 +1,31 @@
+.trending-video-details {
+  display: flex;
+  margin: 20px;
+  gap: 10px;
+  width: 800px;
+  text-decoration: none;
+}
+
+.trending-video-details img {
+  width: 400px;
+}
+
+.trending-video-info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.trending-video-info .title {
+  font-size: 20px;
+}
+
+.trending-video-info .channel-name,
+.count,
+.date {
+  font-size: 15px;
+}
+
+.trending-video-details-dark .title {
+  color: #ffffff;
+}
